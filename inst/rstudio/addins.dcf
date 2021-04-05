@@ -1,0 +1,39 @@
+Name: Insert image from desktop
+Description: Inserts the newest image from the desktop (jpg, png, or gif)
+Binding: insert.newest.image.from.desktop
+Interactive: false
+
+Name: Insert thumbnail
+Description: Inserts the file directory path string for a new thumbnail
+Binding: insert.thumbnail
+Interactive: false
+
+Name: Insert aux file dir
+Description: Inserts auxillary files directory
+Binding: insert.aux.file.dir
+Interactive: false
+
+Name: Clone post
+Description: Clone another post
+Binding: clone.post
+Interactive: true
+
+Name: Save object
+Description: Save an R object to an RDS file
+Binding: save.object
+Interactive: false
+
+Name: Stop server
+Description: Stop the blogdown server
+Binding: stop.server
+Interactive: false
+
+Name: saveRDS to readRDS
+Description: Convert highlighted saveRDS string to readRDS string
+Binding: save2readRDS
+Interactive: false
+
+Name: Open highlighted
+Description: Use system's open command to open the currently highlighted file string
+Binding: open.highlighted
+Interactive: false
